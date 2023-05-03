@@ -1,0 +1,187 @@
+[
+    {
+        "id": "1",
+        "name": "Chef Tommy Miah",
+        "img": "https://alchetron.com/cdn/tommy-miah-14a5b033-4ae4-4c77-b673-bb4e94cd579-resize-750.jpeg",
+        "recipes": {
+            "Chicken_Tikka_Masala": {
+                "photo_url":"https://i.ibb.co/2NB2cp2/chikken-tikka-masala.jpg",
+                "ingredients": "chicken, yogurt, ginger, garlic, tomato",
+                "instructions": "Marinate chicken in yogurt, ginger, and garlic for 2 hours. Grill chicken until browned on both sides. Saute tomato in a pan, then add grilled chicken and cook until tender.",
+                "likes": 1000
+            },
+            "Lamb_Curry": {
+                "photo_url":"https://i.ibb.co/7XNPw1f/Lamb-Curry.jpg",
+                "ingredients": "lamb, onion, tomato, coriander, cumin",
+                "instructions": "Cook onion until browned in a pan. Add lamb and cook until browned. Add tomato, coriander, and cumin, and cook until tender.",
+                "likes": 800
+            },
+            "Fish_Kebab": {
+                "photo_url":"https://i.ibb.co/rQyjcyN/Fish-Kebab.jpg",
+                "ingredients": "fish, green chili, coriander, lemon juice",
+                "instructions": "Mix fish, green chili, coriander, and lemon juice in a bowl. Form the mixture into kebabs. Grill kebabs until browned on both sides.",
+                "likes": 1200
+            }
+        },
+        "years_of_experience": 30,
+        "num_recipes": 51,
+        "likes": 3000
+    },
+    {
+        "id": "2",
+        "name": "Siddika Kabir",
+        "img": "https://tds-images.thedailystar.net/sites/default/files/feature/images/siddika_kabir.jpg",
+        "recipes": {
+            "Beef_Bhuna": {
+                "photo_url":"https://i.ibb.co/RjPrpBS/Beef-Bhuna-Copy.jpg",
+                "ingredients": "beef, onion, ginger, garlic, tomato",
+                "instructions": "Cook onion, ginger, and garlic in a pan until browned. Add beef and cook until browned. Add tomato and cook until tender.",
+                "likes": 1200
+            },
+            "Mutton_Rezala": {
+                "photo_url":"https://i.ibb.co/Qd46RKC/Mutton-Rezala.jpg",
+                "ingredients": "mutton, yogurt, ginger, garlic, onion",
+                "instructions": "Marinate mutton in yogurt, ginger, and garlic for 2 hours. Cook onion until browned in a pan. Add mutton and cook until tender.",
+                "likes": 1500
+            },
+            "Chingri_Bhapa": {
+                "photo_url":"https://i.ibb.co/FwgQtTn/Chingri-Bhapa.jpg",
+                "ingredients": "shrimp, coconut milk, green chili, mustard paste",
+                "instructions": "Mix shrimp, coconut milk, green chili, and mustard paste in a bowl. Place the mixture in a steamer and steam for 10 minutes.",
+                "likes": 800
+            }
+        },
+        "years_of_experience": 25,
+        "num_recipes": 83,
+        "likes": 3500
+    },
+    {
+        "id": "3",
+        "name": "Chef Ahmed Hossain",
+        "img": "https://www.observerbd.com/2021/07/16/observerbd.com_1626457404.jpg",
+        "recipes": {
+            "Beef_Stew": {
+                "photo_url":"https://i.ibb.co/hXDcCV7/Beef-Stew.jpg",
+                "ingredients": "beef, potato, carrot, onion, tomato",
+                "instructions": "Cook onion until browned in a pan. Add beef and cook until browned. Add potato, carrot, tomato, and water. Cover and cook until tender.",
+                "likes": 900
+            },
+            "Biryani": {
+                "photo_url":"https://i.ibb.co/CM3wQhs/Biryani.jpg",
+                "ingredients": "rice, chicken, onion, yogurt, spices",
+                "instructions": "Marinate chicken in yogurt and spices for 2 hours. Cook onion until browned in a pan. Add chicken and cook until browned. Cook rice separately. Mix chicken and rice together.",
+                "likes": 2000
+            },
+            "Vegetable_Pakora": {
+                "photo_url":"https://i.ibb.co/bW3fv4L/Vegetable-Pakora.jpg",
+                "ingredients": "potato, onion, spinach, chickpea flour, spices",
+                "instructions": "Mix potato, onion, and spinach in a bowl. Add chickpea flour and spices to the bowl. Form the mixture into small balls. Fry the balls in hot oil until golden brown.",
+                "likes": 1200
+            }
+        },
+        "years_of_experience": 20,
+        "num_recipes": 65,
+        "likes": 4100
+    },
+    {
+        "id": "4",
+        "name": "Chef Tony Khan",
+        "img": "https://i.ibb.co/mCNYLDH/Screenshot-2023-05-02-181527.png",
+        "recipes": {
+            "Chicken_Roast": {
+                "photo_url":"https://i.ibb.co/GHbFVQh/Chicken-Roast.jpg",
+                "ingredients": "chicken, yogurt, ginger, garlic, spices",
+                "instructions": "Marinate chicken in yogurt, ginger, garlic, and spices for 2 hours. Roast the chicken in the oven until cooked through.",
+                "likes": 1500
+            },
+            "Shahi_Tukra": {
+                "photo_url":"https://i.ibb.co/Q6Spyb4/Shahi-Tukra.jpg",
+                "ingredients": "bread, milk, sugar, cardamom, saffron",
+                "instructions": "Cut bread into pieces and fry in hot oil until golden brown. Heat milk, sugar, cardamom, and saffron in a pan. Add fried bread to the pan and cook until the milk is absorbed.",
+                "likes": 800
+            },
+            "Beef_Bhuna": {
+                "photo_url":"https://i.ibb.co/RjPrpBS/Beef-Bhuna-Copy.jpg",
+                "ingredients": "beef, onion, ginger, garlic, tomato",
+                "instructions": "Cook onion, ginger, and garlic in a pan until browned. Add beef and cook until browned. Add tomato and cook until tender.",
+                "likes": 1000
+            }
+        },
+        "years_of_experience": 15,
+        "num_recipes": 42,
+        "likes": 3300
+    },
+    {
+        "id": "5",
+        "name": "Chef Asad Latif",
+        "img": "https://kfoods.com/chef/images/chefs/704294.jpg",
+        "recipes": {
+            "Haleem": {
+                "photo_url":"https://i.ibb.co/yg3917M/Haleem.jpg",
+                "ingredients": "lamb, lentils, wheat, spices",
+                "instructions": "Cook lamb and lentils in a pot with water until tender. Grind wheat and add to the pot. Cook until the mixture is thick. Add spices and cook for another 30 minutes.",
+                "likes": 2000
+            },
+            "Chicken_Karahi": {
+                "photo_url":"https://i.ibb.co/NrTT7wG/Chicken-Karahi.jpg",
+                "ingredients": "chicken, tomatoes, onion, ginger, garlic, spices",
+                "instructions": "Cook onion, ginger, and garlic in a pan until browned. Add chicken and cook until browned. Add tomatoes and spices. Cook until the chicken is tender.",
+                "likes": 1800
+            },
+            "Daal_Mash": {
+                "photo_url":"https://i.ibb.co/8jySm7G/Daal-Mash.jpg",
+                "ingredients": "lentils, onion, tomato, ginger, garlic, spices",
+                "instructions": "Cook onion, ginger, and garlic in a pan until browned. Add lentils and cook until tender. Add tomato and spices. Cook for another 10 minutes.",
+                "likes": 1000
+            }
+        },
+        "years_of_experience": 10,
+        "num_recipes": 39,
+        "likes": 4800
+    },
+    {
+        "id": "6",
+        "name": "Chef Mr. Feroze Khan",
+        "img": "https://i.ibb.co/g6BBMwJ/93871434-2919562578133727-7241750890430857216-n.jpg",
+        "recipes": {
+            "Shahi_Biryani": {
+                "photo_url":"https://i.ibb.co/VWpsGG9/Shahi-Biryani.jpg",
+                "ingredients": "rice, chicken, onion, yogurt, spices",
+                "instructions": "Marinate chicken in yogurt and spices for 2 hours. Cook onion until browned in a pan. Add chicken and cook until browned. Cook rice separately. Mix chicken and rice together.",
+                "likes": 1200
+            },
+            "Nihari": {
+                "photo_url":"https://i.ibb.co/YhPKw4t/Nihari.jpg",
+                "ingredients": "beef, bone marrow, spices, wheat flour",
+                "instructions": "Cook beef in a pot with water and spices until tender. Add bone marrow and wheat flour. Cook until the mixture is thick.",
+                "likes": 1500
+            },
+            "Aloo_Tikki": {
+                "photo_url":"https://i.ibb.co/fxg5g3q/Aloo-Tikki.jpg",
+                "ingredients": "potato, onion, chickpea flour, spices",
+                "instructions": "Boil potato and mash it. Add onion, chickpea flour, and spices to the mixture. Form the mixture into small patties. Fry the patties in hot oil until golden brown.",
+                "likes": 800
+            }
+        },
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 3500
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
