@@ -117,7 +117,7 @@
         "img": "https://kfoods.com/chef/images/chefs/704294.jpg",
         "recipes": {
             "Haleem": {
-                "photo_url":"https://i.ibb.co/yg3917M/Haleem.jpg",
+                "photo_url":"https://i.ibb.co/yg3917M/Haleem.jpg ",
                 "ingredients": "lamb, lentils, wheat, spices",
                 "instructions": "Cook lamb and lentils in a pot with water until tender. Grind wheat and add to the pot. Cook until the mixture is thick. Add spices and cook for another 30 minutes.",
                 "likes": 2000
@@ -163,7 +163,7 @@
                 "likes": 800
             }
         },
-        "years_of_experience": 12,
+        "years_of_experience": 12 ,
         "num_recipes": 60,
         "likes": 3500
     }
