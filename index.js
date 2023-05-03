@@ -14,7 +14,12 @@ app.get('/chefrecipe', (req, res) => {
     res.send(chefRecipe);
 })
 
-
+app.get('/chefrecipe/:id', (req, res) => {
+    const id = req.params.id;
+    console.log(id);
+    const viewRecipes = chefRecipe.find(n => n.id == id);
+    res.send(viewRecipes)
+})
 
 
 app.listen(port, () => {
