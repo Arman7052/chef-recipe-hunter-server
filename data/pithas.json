@@ -2,71 +2,82 @@
     {
         "id": 1,
         "name": "Patishapta",
-        "image": "patishapta.jpg",
+        "image": "https://i.ibb.co/WpRHn2m/PAthishapta.jpg",
         "ingredients": "Rice flour, jaggery, coconut, milk, ghee",
         "instructions": "Prepare a batter with rice flour, coconut, milk, and jaggery. Heat a pan and spread the batter like a crepe. Cook until golden brown. Add the filling of jaggery and coconut. Roll the crepe and serve hot with a drizzle of ghee."
     },
     {
         "id": 2,
         "name": "Chitoi Pitha",
-        "image": "chitoi_pitha.jpg",
+        "image": "https://i.ibb.co/PhGHVcG/Chitoi-Pitha.jpg",
         "ingredients": "Rice flour, grated coconut, molasses, sesame seeds",
         "instructions": "Mix rice flour with water to make a thick batter. Heat a pan and spread a layer of batter. Sprinkle grated coconut, molasses, and sesame seeds. Cover and cook until set. Serve warm."
     },
     {
         "id": 3,
         "name": "Bhapa Pitha",
-        "image": "bhapa_pitha.jpg",
+        "image": "https://i.ibb.co/TYGwd0S/Bhapa-Pitha.jpg",
         "ingredients": "Rice flour, coconut, jaggery, cardamom powder",
         "instructions": "Mix rice flour with water to make a smooth batter. In a greased dish, spread a layer of batter. Sprinkle grated coconut, jaggery, and cardamom powder. Steam for 20-25 minutes. Cut into pieces and serve."
     },
     {
         "id": 4,
         "name": "Pua Pitha",
-        "image": "pua_pitha.jpg",
+        "image": "https://i.ibb.co/MSNyZkq/PuaPitha.jpg",
         "ingredients": "Rice flour, ripe bananas, sugar, fennel seeds",
         "instructions": "Mash ripe bananas and mix with rice flour, sugar, and fennel seeds. Add water to make a thick batter. Heat oil in a pan. Pour spoonfuls of batter and fry until golden brown. Serve hot."
     },
     {
         "id": 5,
         "name": "Patisapta Pitha",
-        "image": "patisapta_pitha.jpg",
+        "image": "https://i.ibb.co/PxSH2Pj/Patishapta-Pitha.jpg",
         "ingredients": "Rice flour, coconut, jaggery, cardamom powder",
         "instructions": "Mix rice flour with water to make a thin batter. Heat a pan and spread a layer of batter like a crepe. Cook until lightly golden. Fill with a mixture of grated coconut, jaggery, and cardamom powder. Roll and serve."
     },
     {
         "id": 6,
         "name": "Shahi Tukra",
-        "image": "shahi_tukra.jpg",
+        "image": "https://i.ibb.co/jZkJSTj/Shaiukda.jpg",
         "ingredients": "Bread slices, condensed milk, saffron, cardamom powder, almonds, pistachios, ghee",
         "instructions": "Cut bread slices into triangular shapes. Fry them in ghee until golden brown. Prepare a syrup with condensed milk, saffron, and cardamom powder. Dip the fried bread slices in the syrup. Garnish with almonds and pistachios. Serve warm."
     },
     {
         "id": 7,
         "name": "Narkel Naru",
-        "image": "narkel_naru.jpg",
+        "image": "https://i.ibb.co/2k9wHp7/Narikel-Naru.jpg",
         "ingredients": "Grated coconut, jaggery, cardamom powder, ghee",
         "instructions": "In a pan, heat ghee and add grated coconut. Roast until aromatic. Add jaggery and cardamom powder. Mix well until the mixture thickens. Shape the mixture into small balls. Let them cool and solidify. Serve as sweet coconut balls."
     },
     {
         "id": 8,
         "name": "Dudh Puli",
-        "image": "dudh_puli.jpg",
+        "image": "https://i.ibb.co/X546g4G/DudhPuli.jpg",
         "ingredients": "Rice flour, grated coconut, jaggery, cardamom powder, milk",
         "instructions": "Mix rice flour with water to make a smooth dough. Roll small portions of dough into discs. Fill with a mixture of grated coconut, jaggery, and cardamom powder. Seal the edges and shape into crescent-shaped dumplings. Boil milk and add the dumplings. Cook until the dumplings are soft. Serve in milk syrup."
     },
     {
         "id": 9,
         "name": "Teler Pitha",
-        "image": "teler_pitha.jpg",
+        "image": "https://i.ibb.co/LzdxvyW/Teler-Pitha.jpg",
         "ingredients": "Rice flour, sugar, fennel seeds, oil",
         "instructions": "Mix rice flour with water to make a smooth batter. Heat oil in a pan. Pour spoonfuls of batter and fry until golden brown. Soak the fried pithas in sugar syrup. Sprinkle fennel seeds on top. Serve warm."
     },
     {
         "id": 10,
         "name": "Ranga Alur Puli",
-        "image": "ranga_alur_puli.jpg",
+        "image": "https://i.ibb.co/F4F0rtD/RAnga-Alur-Puli.jpg",
         "ingredients": "Potato, jaggery, grated coconut, cardamom powder, refined flour",
         "instructions": "Boil and mash the potatoes. Mix mashed potatoes with jaggery, grated coconut, and cardamom powder. Make small balls of the mixture. Prepare a dough with refined flour. Flatten a small portion of dough, place the potato ball, and seal the edges. Boil the pulis until they float. Serve hot."
     }
 ]
+
+
+
+
+
+
+
+
+
+
+

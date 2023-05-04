@@ -2,71 +2,81 @@
     {
         "id": 1,
         "name": "Fuchka",
-        "image": "fuchka.jpg",
+        "image": "https://i.ibb.co/BjpY8f5/Fuchka.jpg",
         "ingredients": "Semolina, all-purpose flour, potatoes, chickpeas, tamarind chutney, green chutney, spices",
         "instructions": "Prepare a dough with semolina and all-purpose flour. Roll out thin discs and fry until crispy. Fill the discs with mashed potatoes and spiced chickpeas. Top with tamarind chutney and green chutney. Serve as a popular street snack."
     },
     {
         "id": 2,
         "name": "Jhalmuri",
-        "image": "jhalmuri.jpg",
+        "image": "https://i.ibb.co/GFJr5rs/Jhalmuri.jpg",
         "ingredients": "Puffed rice, peanuts, mustard oil, onion, green chilies, cucumber, tomato, coriander leaves, lime juice, spices",
         "instructions": "Mix puffed rice, peanuts, onions, green chilies, cucumber, and tomato in a bowl. Add mustard oil, lime juice, and spices. Mix well. Garnish with coriander leaves. Serve as a popular street snack."
     },
     {
         "id": 3,
         "name": "Chapli Kebab",
-        "image": "chapli_kebab.jpg",
+        "image": "https://i.ibb.co/VMDmPT4/Chapli-Kebab.jpg",
         "ingredients": "Minced meat, onion, green chilies, ginger-garlic paste, coriander leaves, cumin powder, coriander powder, red chili flakes, egg, breadcrumbs, oil",
         "instructions": "Mix minced meat, onion, green chilies, ginger-garlic paste, coriander leaves, and spices in a bowl. Add egg and breadcrumbs for binding. Shape into flat kebabs. Heat oil and fry the kebabs until cooked. Serve hot with mint chutney."
     },
     {
         "id": 4,
         "name": "Kathi Roll",
-        "image": "kathi_roll.jpg",
+        "image": "https://i.ibb.co/zQwq6NV/Kathi-Roll.jpg",
         "ingredients": "Paratha, chicken or mutton tikka, onion, cucumber, tomato, lettuce, mayonnaise, ketchup, spices",
         "instructions": "Grill the chicken or mutton tikka until cooked. Heat the paratha and layer with the grilled tikka, onion, cucumber, tomato, and lettuce. Drizzle with mayonnaise and ketchup. Sprinkle with spices. Roll tightly and serve as a popular street food."
     },
     {
         "id": 5,
         "name": "Beguni",
-        "image": "beguni.jpg",
+        "image": "https://i.ibb.co/tcRBqRb/Beguni.jpg",
         "ingredients": "Eggplant, chickpea flour, rice flour, turmeric powder, chili powder, salt, oil",
         "instructions": "Slice the eggplant and sprinkle with salt. In a bowl, mix chickpea flour, rice flour, turmeric powder, chili powder, and salt with water to form a smooth batter. Dip the eggplant slices in the batter and deep fry until crispy. Serve hot as a popular street snack."
     },
     {
         "id": 6,
         "name": "Shingara",
-        "image": "shingara.jpg",
+        "image": "https://i.ibb.co/Fz1Qxtq/Shingara.jpg",
         "ingredients": "All-purpose flour, potatoes, onions, peas, spices, oil",
         "instructions": "Prepare a dough with all-purpose flour. In a separate pan, cook potatoes, onions, peas, and spices to make the filling. Roll out the dough and fill it with the prepared filling. Fold the dough and seal the edges. Deep fry until golden brown. Serve hot as a popular street snack."
     },
     {
         "id": 7,
         "name": "Chotpoti",
-        "image": "chotpoti.jpg",
+        "image": "https://i.ibb.co/z7pDz8L/Chotpoti.jpg",
         "ingredients": "Chickpeas, potatoes, tamarind pulp, yogurt, onion, green chilies, spices",
         "instructions": "Boil chickpeas and potatoes separately. In a bowl, mix the boiled chickpeas, mashed potatoes, tamarind pulp, yogurt, chopped onions, green chilies, and spices. Mix well and serve as a tangy and spicy street food dish."
     },
     {
         "id": 8,
         "name": "Shawarma",
-        "image": "shawarma.jpg",
+        "image": "https://i.ibb.co/84dFkJz/Shawarma.jpg",
         "ingredients": "Marinated chicken or beef, pita bread, lettuce, onion, tomato, cucumber, garlic sauce, chili sauce",
         "instructions": "Grill the marinated chicken or beef until cooked. Warm the pita bread and fill it with grilled meat, lettuce, onion, tomato, cucumber, garlic sauce, and chili sauce. Roll tightly and serve as a popular street food."
     },
     {
         "id": 9,
         "name": "Aloo Chop",
-        "image": "aloo_chop.jpg",
+        "image": "https://i.ibb.co/Sw6fjrm/AlooChop.jpg",
         "ingredients": "Potatoes, onion, green chilies, ginger-garlic paste, spices, breadcrumbs, oil",
         "instructions": "Boil and mash the potatoes. In a pan, sauté onions, green chilies, and ginger-garlic paste. Add the mashed potatoes and spices. Mix well and let it cool. Shape the mixture into round patties. Coat with breadcrumbs and shallow fry until golden brown. Serve hot as a popular street snack."
     },
     {
         "id": 10,
         "name": "Puchka",
-        "image": "puchka.jpg",
+        "image": "https://i.ibb.co/m8R6GZD/Puchka.jpg",
         "ingredients": "Semolina, all-purpose flour, tamarind chutney, spiced water, potato filling, spices",
         "instructions": "Prepare a dough with semolina and all-purpose flour. Roll out thin discs and fry until crispy. Fill the discs with potato filling. Dip the filled discs in tamarind chutney and spiced water. Serve as a popular street snack with a burst of flavors."
     }
 ]
+
+
+
+
+
+
+
+
+
+
